@@ -1,0 +1,310 @@
+{
+  "cantidad": 27,
+  "inicio": 0,
+  "parametros": {},
+  "dulces": [
+    
+  {
+    "id": "1",
+    "nombre": "Medialunas sin TACC",
+    "precio": "$3500 docena/$2000 media docena",
+    "descripción": "Medialunas elaboradas con almidón de maiz",
+    "presentación":"Docena/Media Docena",
+    "vegano": "No",
+    "celíaco": "Si",
+    "sin-Azucar": "No",
+    "img":"Imagenes/mediasinTACC.jpg"  },
+  {
+    "id": "2",
+    "nombre": "Vegalunas",
+    "precio": "$3500 docena/$2000 media docena",
+    "descripción": "Medialunas veganas",
+    "presentación":"Docena/Media Docena",
+    "vegano": "Si",
+    "celíaco": "No",
+    "sin-Azucar": "No",
+    "img":"Imagenes/mediasVeganas.jpg"
+  },
+  {
+    "id": "3",
+    "nombre": "Medialunas integrales sin azúcar",
+    "precio": "$3500 docena/$2000 media docena",
+    "descripción": "Medialunas elaboradas harina de trigo integral",
+    "presentación":"Docena",
+    "vegano": "Si",
+    "celíaco": "No",
+    "sin-Azucar": "Si",
+    "img":"Imagenes/mediasIntegrales.jpg"
+  },
+  {
+    "id": "4",
+    "nombre": "Brownie de cacao",
+    "precio": "$4500 pieza entera/$1500 cuadrado",
+    "descripción": "Mágicamente sin harina y sin azúcar, contiene manzana",
+    "presentación":"Cuadrado de 230 gramos o pieza entera de 900 gramos.",
+    "vegano": "No",
+    "celíaco": "Si",
+    "sin-Azucar": "Si",
+    "img":"Imagenes/brownieSinHarina.jpg"
+  },
+  {
+    "id": "5",
+    "nombre": "Brownie vegano con nueces",
+    "precio": "$4500 pieza entera/$1500 cuadrado",
+    "descripción": "Brownie de cacao sin manteca! una locura de ricos!",
+    "presentación":"Cuadrado de 250 gramos o pieza entera de 1 kg.",
+    "vegano": "Sí",
+    "celíaco": "No",
+    "sin-Azucar": "No",
+    "img":"Imagenes/brownieVegano.jpg"
+  },
+  {
+    "id": "6",
+    "nombre": "Lemon Pie vegano",
+    "precio": "$4500 pieza entera/$1500 cuadrado",
+    "descripción": "Lemon Pie apto vegano con merengue! sii probalo!",
+    "presentación":"Cuadrado de 250 gramos o pieza entera de 1 kg.",
+    "vegano": "Si",
+    "celíaco": "No",
+    "sin-Azucar": "No",
+    "img":"Imagenes/lemmonPievVegan.jpg"
+  },
+  {
+    "id": "7",
+    "nombre": "Lemon Pie Keto",
+    "precio": "$4500 pieza entera/$1500 cuadrado",
+    "descripción": "Clásico lemon pie reversionado para comer sin culpa",
+    "presentación":"Cuadrado de 250 gramos o pieza entera de 900  gramos.",
+    "vegano": "No",
+    "celíaco": "Si",
+    "sin-Azucar": "Si",
+    "img":"Imagenes/lemmonPieKeto.jpg"
+  },
+  {
+    "id": "8",
+    "nombre": "Alfajores de algarroba",
+    "precio": "$600 unidad",
+    "descripción": "Típico alfajor argento sin harina de trigo, sin azúcar pero con muucho sabor",
+    "presentación": "Unidad de 200 gramos",
+    "vegano": "No",
+    "celíaco": "Si",
+    "sin-Azucar": "Si",
+    "img" :"Imagenes/alfajorAlagarroba.jpg"
+    
+  },
+  {
+    "id": "9",
+    "nombre": "Alfajor vegano del bosque",
+    "precio": "$600 unidad",
+    "descripción": "Un viaje de ida, con relleno de frutos del bosque",
+    "presentación": "Unidad de 200 gramos",
+    "vegano": "Si",
+    "celíaco": "No",
+    "sin-Azucar": "No",
+    "img":"Imagenes/alfaFrutos.jpg"
+  },
+  {
+    "id": "10",
+    "nombre": "Cocotorta",
+    "precio": "$4500 pieza entera/$1500 cuadrado",
+    "descripción": "Torta con base de coco y dulce de leche sin azúcar ",
+    "presentación":"Cuadrado de 250 gramos o pieza entera de 900 gramos.",
+    "vegano": "No",
+    "celíaco": "Si",
+    "sin-Azucar": "Si",
+    "img":"Imagenes/cocotorta.jpg"
+  },
+  {
+    "id": "11",
+    "nombre": "Wafles sin TACC",
+    "precio": "$3500 docena/$2000 media docena",
+    "descripción": "Ideales para tener en el freezer y prepararlos a tu gusto para preparaciones dulces o saladas",
+    "presentación":"Docena/Media Docena",
+    "vegano": "No",
+    "celíaco": "Si",
+    "sin-Azucar": "No",
+    "img":"Imagenes/wafles.jpg"
+  },
+  {
+    "id": "12",
+    "nombre": "Donas veganas",
+    "precio": "$4500 docena/$2500 media docena",
+    "descripción": "No sólo bellas sino riquísimas",
+    "presentación":"Box x 6 o 12 unidades",
+    "vegano": "Sí",
+    "celíaco": "No",
+    "sin-Azucar": "No",
+    "img":"Imagenes/donasVeganas.jpg"
+  },
+  {
+    "id": "13",
+    "nombre": "Donas sin culpa",
+    "precio": "$4500 docena/$2500 media docena",
+    "descripción": "Sin fritura, sin harina de trigo, sin azúcar agregada, con fruta, como lo hicimos? magiaa!",
+    "presentación":"Box x 6 o 12 unidades",
+    "vegano": "No",
+    "celíaco": "No",
+    "sin-Azucar": "Si",
+    "img":"Imagenes/donasSinazucar.jpg"
+  },
+  {
+    "id": "14",
+    "nombre": "Cookies de avena y frutos secos",
+    "precio": "$4500 docena/$2500 media docena",
+    "descripción": "No vas a poder parar!",
+    "presentación":"Box x 6 o 12 unidades",
+    "vegano": "Si",
+    "celíaco": "No",
+    "sin-Azucar": "Si",
+    "img":"Imagenes/cookieAvena.jpg"
+  },
+  {
+    "id": "15",
+    "nombre": "Cookies de chocolate y nueces sin TACC",
+    "precio": "$4500 docena/$2500 media docena",
+    "descripción": "Super húmedas y chocolatosas. Receta maestra",
+    "presentación":"Box x 6 o 12 unidades",
+    "vegano": "No",
+    "celíaco": "Si",
+    "sin-Azucar": "No",
+    "img":"Imagenes/cookiesChoco.jpg"
+  },
+  {
+    "id": "16",
+    "nombre": "Cheesecake Keto frutillas",
+    "precio": "$4500 pieza entera/$1500 cuadrado",
+    "descripción": "Con base suave de coco y cobertura de frutillas, para darse un gustito",
+    "presentación":"Cuadrado de 250 gramos o pieza entera de 900 gramos",
+    "vegano": "No",
+    "celíaco": "Si",
+    "sin-Azucar": "Si",
+    "img":"Imagenes/CheesFruti.jpg"
+  },
+  {
+    "id": "17",
+    "nombre": "Cheescake Keto arándanos ",
+    "precio": "$4500 pieza entera/$1500 cuadrado",
+    "descripción": "Con base suave de coco y cobertura de arándanos, para darse un gustito",
+    "presentación":"Cuadrado de 250 gramos o pieza entera de 900 gramos",
+    "vegano": "No",
+    "celíaco": "Si",
+    "sin-Azucar": "Si",
+    "img":"Imagenes/cheesAran.jpg"
+  },
+  {
+    "id": "18",
+    "nombre": "Carrot cake Keto",
+    "precio": "$4500 pieza entera/$1500 cuadrado",
+    "descripción": "Húmeda, sabrosa y con cobertura de cholotate amargo",
+    "presentación":"Cuadrado de 250 gramos o pieza entera de 900 gramos",
+    "vegano": "No",
+    "celíaco": "Si",
+    "sin-Azucar": "Si",
+    "img":"Imagenes/carrotKeto.jpg"
+  },
+  {
+    "id": "19",
+    "nombre": "Carrot cake vegana ",
+    "precio": "$4500 pieza entera/$1500 cuadrado",
+    "descripción": "Húmeda, con frutos secos que le dan todo el toque",
+    "presentación":"Cuadrado de 250 gramos o pieza entera de 900 gramos",
+    "vegano": "Si",
+    "celíaco": "No",
+    "sin-Azucar": "No",
+    "img":"Imagenes/carrotVegan.jpg"
+  },
+  {
+    "id": "20",
+    "nombre": "Tarta de ricota sin azúcar y sin TACC ",
+    "precio": "$4500 pieza entera/$1500 cuadrado",
+    "descripción": "Clásica torta de ricotta sin azúcar y sin TACC pero te juramos que no vas  a notar la diferencia",
+    "presentación":"Cuadrado de 250 gramos o pieza entera de 900 gramos",
+    "vegano": "No",
+    "celíaco": "Si",
+    "sin-Azucar": "Si",
+    "img":"Imagenes/ricotaSinTacc.jpg"
+  },
+  {
+    "id": "21",
+    "nombre": "Pasta Frola vegana membrillo sin TACC ",
+    "precio": "$4500 pieza entera/$1500 cuadrado",
+    "descripción": "Ideal para el mate!",
+    "presentación":"Cuadrado de 250 gramos o pieza entera de 900 gramos",
+    "vegano": "Sí",
+    "celíaco": "Si",
+    "sin-Azucar": "No",
+    "img":"Imagenes/frolaVegana.jpg"
+    
+  },
+  {
+    "id": "22",
+    "nombre": "Cupcakes veganos de algarroba ",
+    "precio": "$4500 docena/$2500 media docena",
+    "descripción": "No probaste otro igual, con merengue de garbanzos que queda espectacular!",
+    "presentación":"Box x 6 o 12 unidades",
+    "vegano": "Si",
+    "celíaco": "No",
+    "sin-Azucar": "No",
+    "img":"Imagenes/cupcake-vegano.jpg"
+  },
+  {
+    "id": "23",
+    "nombre": "Cupcakes veganos de limón",
+    "precio": "$4500 docena/$2500 media docena",
+    "descripción": "Super esponjosos y con cobertura de merengue de garbanzos",
+    "presentación":"Box x 6 o 12 unidades",
+    "vegano": "Si",
+    "celíaco": "No",
+    "sin-Azucar": "No",
+    "img":"Imagenes/cupcakeLimon.jpg"
+
+  },
+  {
+    "id": "24",
+    "nombre": "Cupcakes veganos de frutos del bosque",
+    "precio": "$4500 docena/$2500 media docena",
+    "descripción": "Estos no llegan a la casa de mi abuela, dijo Caperucita",
+    "presentación":"Box x 6 o 12 unidades",
+    "vegano": "Sí",
+    "celíaco": "No",
+    "sin-Azucar": "Si",
+    "img":"Imagenes/cupFrutos.jpg"
+  },
+  {
+    "id": "25",
+    "nombre": "Cupcakes sin TACC chocolate ",
+    "precio": "$4500 docena/$2500 media docena",
+    "descripción": "Hechos a base de harina de arroz y rellenos de dulce de leche, esponjosos y únicos",
+    "presentación":"Box x 6 o 12 unidades",
+    "vegano": "No",
+    "celíaco": "Si",
+    "sin-Azucar": "No",
+    "img":"Imagenes/cupDdl.jpg"
+  },
+  {
+    "id": "26",
+    "nombre": "Cupcakes sin TACC de vainilla y dulce de leche",
+    "precio": "$4500 docena/$2500 media docena",
+    "descripción": "Hechos a base de harina de arroz y rellenos de dulce de leche",
+    "presentación":"Box x 6 o 12 unidades",
+    "vegano": "No",
+    "celíaco": "Si",
+    "sin-Azucar": "Si",
+    "img":"Imagenes/cupcakes-vainilla-original.jpg"
+  },
+  {
+    "id": "27",
+    "nombre": "Fiesta de cupcakes sin harina, sin azúzcar agregada",
+    "precio": "$4500 docena/$2500 media docena",
+    "descripción": "Surtido de cupcakes de distintos sabores y rellenos para degustar a lo grande",
+    "presentación":"Box x 6 o 12 unidades",
+    "vegano": "No",
+    "celíaco": "Si",
+    "sin-Azucar": "Si",
+    "img":"Imagenes/fiesta.jpg"
+  }
+],
+"total": 27
+}
+
+
